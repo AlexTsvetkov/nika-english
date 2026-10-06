@@ -71,6 +71,18 @@ PLANNED 10-LESSON ARC (use this for the GENERATE line)
    9  Questions & negatives — "Do you ___?", "I don't ___"
    10 PRESENT SIMPLE — my day/routine: "I get up. I eat. She plays."
 
+PHASE 2 ARC (Lessons 11–20, continue after present simple)
+   11 Plurals — "a cat / three cats"; "These are ___"
+   12 Numbers 1–20 — "How many ___?"
+   13 Colours — "What colour is it? It is ___"
+   14 "have got" — "I have got ___ / Have you got ___?"
+   15 Can / can't — abilities; "I can ___"
+   16 Present continuous — "I am ___ing" (right now)
+   17 Food & drink — "I want ___ / Do you like ___?"
+   18 Adjectives — "It is a big / small ___"
+   19 Prepositions of place — in / on / under; "Where is ___?"
+   20 Review — "All about me" (family, day, things, abilities)
+
 Match the tone, length and formatting of the existing files in lessons/ and
 resources/word-bank.md.
 

@@ -154,6 +154,13 @@ ARC (one block per lesson, spiralling to present simple):
 7 "I/you/we + verb" (present simple base)   8 "He/She + verb-s"
 9 "I don't / Do you…?"   10 PRESENT SIMPLE — put all blocks together ("My day").
 
+PHASE 2 ARC (Lessons 11–20): 11 Plurals ("a cat / three cats", "These are ___")
+12 Numbers 1–20 ("How many ___?")   13 Colours ("What colour is it? It is ___")
+14 "have got" ("I have got ___ / Have you got ___?")   15 Can / can't (abilities)
+16 Present continuous ("I am ___ing" now)   17 Food & drink ("I want ___ / Do you like ___?")
+18 Adjectives ("It is a big / small ___")   19 Prepositions (in / on / under; "Where is ___?")
+20 Review — "All about me".
+
 ### GENERATE
 Lesson 1 — the pattern "I am ___".
 ```

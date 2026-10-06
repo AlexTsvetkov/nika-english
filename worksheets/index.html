@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Nika's English Worksheets 🦊</title>
+<style>
+  * { box-sizing: border-box; }
+  body {
+    font-family: "Comic Sans MS", "Trebuchet MS", Verdana, sans-serif;
+    color: #233; margin: 0; background: #fff7ec; padding: 24px;
+  }
+  h1 { color: #e4572e; margin: 0 0 4px; font-size: 30px; }
+  .intro { color: #777; margin: 0 0 24px; }
+  .sets { display: flex; gap: 24px; flex-wrap: wrap; }
+  .set {
+    flex: 1 1 420px; background: #fff; border: 3px solid #ffd166;
+    border-radius: 16px; padding: 16px 20px;
+  }
+  .set h2 { color: #118ab2; margin: 0 0 2px; font-size: 22px; }
+  .set .desc { color: #888; font-size: 14px; margin: 0 0 12px; }
+  .phase { font-weight: bold; color: #e4572e; margin: 14px 0 6px; font-size: 15px; }
+  table { width: 100%; border-collapse: collapse; }
+  td { padding: 6px 4px; border-bottom: 1px solid #f0e6d6; vertical-align: top; }
+  .num { font-weight: bold; color: #06a; width: 28px; }
+  .title { font-size: 15px; }
+  .links { white-space: nowrap; text-align: right; }
+  a.btn {
+    text-decoration: none; font-size: 13px; padding: 3px 10px; border-radius: 999px;
+    margin-left: 6px; display: inline-block;
+  }
+  a.html { background: #e6f6fb; color: #0a6a86; border: 1px solid #9ad3e5; }
+  a.pdf  { background: #e9f9f1; color: #0a7a52; border: 1px solid #8fe0bf; }
+  a.btn:hover { filter: brightness(0.95); }
+  .foot { color:#999; font-size: 13px; margin-top: 22px; }
+</style>
+</head>
+<body>
+
+  <h1>🦊 Nika's English Worksheets</h1>
+  <p class="intro">Click <b>Sheet</b> to open a worksheet, or <b>PDF</b> to print it. Pick one course and go in order.</p>
+
+  <div class="sets">
+
+    <div class="set">
+      <h2>Everyday Talking</h2>
+      <p class="desc">Course A — short conversations she can use right away.</p>
+
+      <div class="phase">Phase 1 — first words & sentences</div>
+      <table id="a1"></table>
+      <div class="phase">Phase 2 — more talking</div>
+      <table id="a2"></table>
+    </div>
+
+    <div class="set">
+      <h2>Building Blocks</h2>
+      <p class="desc">Course C — one clear pattern per lesson, with review.</p>
+
+      <div class="phase">Phase 1 — first words & sentences</div>
+      <table id="c1"></table>
+      <div class="phase">Phase 2 — more talking</div>
+      <table id="c2"></table>
+    </div>
+
+  </div>
+
+  <p class="foot">Tip: open a Sheet in your browser and press Ctrl/Cmd+P to print, or just open the PDF. 🖨️</p>
+
+<script>
+  const titles = {
+    1:"Hello! — I am ___",            2:"You are ___ (your name)",
+    3:"He is / She is ___",           4:"It is a / This is a ___",
+    5:"We are / They are ___",        6:"Review: am/is/are + I have",
+    7:"Action verbs — I run, I eat",  8:"He runs / She plays (-s)",
+    9:"Do you…? / I don't",           10:"Present simple — My day",
+    11:"Plurals — These are ___",     12:"Numbers 1–20 — How many?",
+    13:"Colours — What colour is it?",14:"Have got — I have got ___",
+    15:"Can / can't — I can ___",     16:"Present continuous — I am ___ing",
+    17:"Food & drink — I want ___",   18:"Adjectives — big / small",
+    19:"Prepositions — in / on / under", 20:"Review — All about me"
+  };
+  function rows(folder, from, to){
+    let html = "";
+    for (let n = from; n <= to; n++){
+      const f = String(n).padStart(2,"0");
+      const base = folder + "/lesson-" + f;
+      html += `<tr><td class="num">${n}</td>`
+            + `<td class="title">${titles[n]}</td>`
+            + `<td class="links">`
+            + `<a class="btn html" href="${base}.html">Sheet</a>`
+            + `<a class="btn pdf" href="${base}.pdf">PDF</a>`
+            + `</td></tr>`;
+    }
+    return html;
+  }
+  a1.innerHTML = rows("updated-prompt", 1, 10);
+  a2.innerHTML = rows("updated-prompt", 11, 20);
+  c1.innerHTML = rows("option-c-building-blocks", 1, 10);
+  c2.innerHTML = rows("option-c-building-blocks", 11, 20);
+</script>
+
+</body>
+</html>
