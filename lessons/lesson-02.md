@@ -19,20 +19,21 @@
 
 **2. Sound-and-slide (the big one).** Point under each letter, say the sound, then slide
 them together faster and faster:
-- **at** → /æ/-/t/ → *at*
-- **sat** → /s/-/æ/-/t/ → *sat* 🪑
-- **tap** → *tap* · **pat** → *pat* · **sap** → *sap*
+- **at** 📍 → /æ/-/t/
+- **sat** 🪑 → /s/-/æ/-/t/
+- **tap** 🥁 · **pat** 🤚 · **sap** 🌳
 
 👏 First word = big celebration.
 
-**3. Word Builder.** You say a word (tap / sat / pat); Nika picks the letter cards, lays
-them in order, and reads it back. Build 4 words.
+**3. Word Builder.** You say a word — tap 🥁 / sat 🪑 / pat 🤚 — Nika picks the letter
+cards, lays them in order, and reads it back. Build 4 words.
 
-**4. Swap one sound.** **sat → sap** (change t→p) → **tap** (rearrange). "One change =
-new word!" Try 3 swaps.
+**4. Swap one sound.** **sat 🪑 → sap 🌳** (change t→p) → **tap 🥁** (rearrange). "One
+change = new word!" Try 3 swaps.
 
-**5. Silly or real?** Read **tat, pas, sap** — real word or made-up? Giggle at silly ones.
+**5. Silly or real?** Read **tat ❓ · pas ❓ · sap 🌳** — real word or made-up? Giggle at
+silly ones.
 
 ## 🏠 Homework (5 min/day)
-- Read these 3 words aloud daily: **sat · tap · pat**.
+- Read these 3 words aloud daily: **sat 🪑 · tap 🥁 · pat 🤚**.
 - Build 1 word with letter cards and read it to someone.

@@ -17,13 +17,13 @@
 **1. Sound speed round.** Add u, l — all 17 cards. 🏁
 
 **2. Read the ladder.**
-`sun · run · cup · cut · nut · hut · mud · gum · leg · let · lip · lot · log · lap`
+`sun ☀️ · run 🏃 · cup 🥤 · cut ✂️ · nut 🥜 · hut 🛖 · mud 🟤 · gum 🍬 · leg 🦵 · let 🆗 · lip 👄 · lot 🔢 · log 🪵 · lap 🦵`
 Count them. 🏆
 
-**3. Longer words.** Blend: **lamp 💡 · land · plug 🔌 · slug 🐌 · slip**. 5 words.
+**3. Longer words.** Blend: **lamp 💡 · land 🏞️ · plug 🔌 · slug 🐌 · slip ⚠️**. 5 words.
 
 **4. Read & act sentences.**
-- **The sun is hot.** ☀️ · **I run up.** 🏃 · **A slug is on the log.** 🐌🪵
+- **The sun ☀️ is hot 🔥.** · **I 🙋 run 🏃 up ⬆️.** · **A slug 🐌 is on the log 🪵.**
 
 **5. Mixed reading race.** From all lessons, read 15 words in a row (pick a spread). Time
 it; this is her "reading level" check. 🏁🏆
@@ -36,7 +36,8 @@ it; this is her "reading level" check. 🏁🏆
 
 ### 🎯 Milestone — Nika can now:
 Say 17 letter-sounds · read many CVC words · read short sentences & *The Red Cat* ·
-recognise **I / the / is** · write simple words from dictation. **That's a reading child!** 👏
+recognise **I 🙋 / the / is 🟰** · write simple words from dictation. **That's a reading
+child!** 👏
 
 ### ▶️ Next (Lessons 11–16): finish the alphabet — `f b j z w v x y qu` — then big reviews.
 After you run these 10, tell me what Nika loved (which exercises? faster/slower? more

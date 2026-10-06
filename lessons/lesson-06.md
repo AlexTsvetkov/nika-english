@@ -18,17 +18,17 @@
 **1. Sound speed round.** Add h, r. Say all sounds. 🏁
 
 **2. Read the ladder.**
-`hat · hen · has · hit · hip · rat · ran · rip · hens · rats`
+`hat 🎩 · hen 🐔 · has 🫴 · hit 👊 · hip 🕺 · rat 🐀 · ran 🏃 · rip 📄 · hens 🐔 · rats 🐀`
 Count them. 🏆
 
-**3. Rhyme families.** Read the chain, Nika hops on each: **hat–rat–cat–pat**. Then
-**hen–ten–pen**. "The ends match — that's rhyme!" 🎵
+**3. Rhyme families.** Read the chain, Nika hops on each: **hat 🎩 – rat 🐀 – cat 🐱 –
+pat 🤚**. Then **hen 🐔 – ten 🔟 – pen 🖊️**. "The ends match — that's rhyme!" 🎵
 
-**4. Picture match.** Lay 4 words (hat, rat, hen, cat) + 4 pictures; she reads each word
-and matches it. 🖼️
+**4. Picture match.** Lay 4 words — hat 🎩, rat 🐀, hen 🐔, cat 🐱 — + 4 pictures; she
+reads each word and matches it. 🖼️
 
 **5. Read & act sentences.**
-- **I ran.** 🏃 · **A rat ran.** 🐀 · **Pat the hen.** 🐔 · **A cat sat.** 🐱
+- **I 🙋 ran 🏃.** · **A rat 🐀 ran 🏃.** · **Pat 🤚 the hen 🐔.** · **A cat 🐱 sat 🪑.**
 
 ## 🏠 Homework (5 min/day)
 - Read 1 rhyme family aloud daily.

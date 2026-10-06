@@ -17,17 +17,18 @@
 **1. Sound speed round.** Add c, k, e to the pile. Say every sound. 🏁
 
 **2. Read the ladder.**
-`cat · can · cap · kit · pet · pen · ten · net · set · nest`
+`cat 🐱 · can 🥫 · cap 🧢 · kit 🧰 · pet 🐾 · pen 🖊️ · ten 🔟 · net 🥅 · set 📦 · nest 🪹`
 Count how many she reads. 🏆
 
-**3. Vowel listen.** You say words (cat, pet, can, ten); she holds up **a** or **e** card
-for the middle sound. 6 words. 👂
+**3. Vowel listen.** You say words — cat 🐱, pet 🐾, can 🥫, ten 🔟 — she holds up **a** or
+**e** card for the middle sound. 6 words. 👂
 
-**4. Missing letter.** **c_t**, **p_n**, **t_n**, **n_t** — add a or e, read it. 4 cards.
+**4. Missing letter.** **c_t 🐱**, **p_n 🖊️**, **t_n 🔟**, **n_t 🥅** — add a or e, read it.
+4 cards.
 
-**5. Build sentence.** Mixed cards → **I can pat a cat.** (all sounds she knows). She
-orders, reads, and pats a toy cat. 🐱
+**5. Build sentence.** Mixed cards → **I 🙋 can pat 🤚 a cat 🐱.** (all sounds she knows).
+She orders, reads, and pats a toy cat. 🐱
 
 ## 🏠 Homework (5 min/day)
 - Read 5 ladder words daily.
-- Write **cat** and **pet** from memory (you say it, she writes it).
+- Write **cat 🐱** and **pet 🐾** from memory (you say it, she writes it).

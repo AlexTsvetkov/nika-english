@@ -14,20 +14,21 @@
 - Read lots of `-op`, `-ot`, `-og` words and sentences.
 
 ## ✏️ Exercises for Nika
-**1. Sound speed round.** Add g, o + flash **the / is**. 🏁
+**1. Sound speed round.** Add g, o + flash **the / is 🟰**. 🏁
 
 **2. Read the ladder.**
-`dog · got · pot · top · hop · hot · cot · dot · not · pop · mop`
+`dog 🐕 · got 🎁 · pot 🍲 · top 🔝 · hop 🐰 · hot 🔥 · cot 🛏️ · dot ⚫ · not 🚫 · pop 🎈 · mop 🧹`
 Count them. 🏆
 
-**3. Rhyme hop.** **hop–top–pop–mop** and **dog–log** — hop on each. 🐸
+**3. Rhyme hop.** **hop 🐰 – top 🔝 – pop 🎈 – mop 🧹** and **dog 🐕 – log 🪵** — hop on
+each. 🐸
 
-**4. Missing letter.** **d_g**, **p_t**, **h_p**, **g_t** — add o, read it. Then **_og**,
-**_ot** — add first sound. 6 cards.
+**4. Missing letter.** **d_g 🐕**, **p_t 🍲**, **h_p 🐰**, **g_t 🎁** — add o, read it. Then
+**_og 🐕**, **_ot 🍲** — add first sound. 6 cards.
 
 **5. Build & read sentences.**
-- **The dog is hot.** 🐕🔥 · **I got a dog!** 🎉 · **Stop!** 🛑
+- **The dog 🐕 is hot 🔥.** · **I 🙋 got 🎁 a dog 🐕!** · **Stop 🛑!**
 
 ## 🏠 Homework (5 min/day)
 - Read 5 ladder words daily.
-- Write from dictation: **dog · hot · stop**.
+- Write from dictation: **dog 🐕 · hot 🔥 · stop 🛑**.

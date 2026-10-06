@@ -22,6 +22,7 @@ pretend.)
 |---|---|
 | `README.md` | You are here — how to run the course |
 | `COURSE-PLAN.md` | The full 6-month map (all ~48 lessons at a glance) |
+| `PROMPT.md` | Copy-paste prompt to generate new lessons in this exact style |
 | `lessons/` | The detailed lessons. Lessons 1–10 are ready. |
 | `progress-chart.md` | A star/sticker chart to print and celebrate progress |
 | `resources/phonics-actions-and-songs.md` | The hand-action and song for every sound |
