@@ -26,6 +26,7 @@ pretend.)
 | `lessons/` | The detailed lessons. Lessons 1–10 are ready. |
 | `progress-chart.md` | A star/sticker chart to print and celebrate progress |
 | `resources/phonics-actions-and-songs.md` | The hand-action and song for every sound |
+| `resources/alphabet.md` | Alphabet chart: each letter's sound(s), example word + icon, Russian pronunciation |
 | `resources/word-bank.md` | Printable word & flashcard lists for games |
 
 ---

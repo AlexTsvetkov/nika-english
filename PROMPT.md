@@ -41,16 +41,17 @@ HARD RULES
        reading; include at least one "say it about yourself / real life" exercise)
    ## 🏠 Homework   (a 5-min/day task she can do out loud)
 2. Keep the lesson SHORT (about 45–60 lines).
-3. EVERY word that appears for her to read or say gets an emoji showing its meaning,
-   e.g. cat 🐱, run 🏃, happy 😊. Abstract words get a best-fit icon (I 🙋, you 👉,
-   he 👦, she 👧, we 👫, they 👨‍👩‍👧, is 🟰, and ➕).
-4. The FIRST time a new vocabulary word appears, add its Russian translation in brackets:
-   dog 🐕 (собака). This helps the Russian-speaking parent and child.
+3. ICONS — use an emoji ONLY to explain a new word, and ONLY in the "🎯 What we will learn"
+   word list, written as `word 🖼️ (translation)`, e.g. ball 🏀 (мяч). Put NO icons anywhere
+   else: not in the pattern box, exercises, plan, homework, or any sentence — keep all
+   phrases plain text. (Only the section headers 📋 🎯 ✏️ 🏠 and the lesson title keep an emoji.)
+4. In that "🎯 What we will learn" list, give each new word its Russian translation in
+   brackets next to the icon: dog 🐕 (собака). This is the one place icons and translations live.
 5. Reading warm-up words should stay simple and phonetic; but spoken vocabulary and
    sentence words can be ANY useful word (taught as a whole word with picture + translation).
 6. Teach grammar through PATTERNS and examples, never with grammar jargon. Show the model
    sentence, then have her swap words into it. Example pattern box:
-       I 🙋 am Nika.   You 👉 are big.   He 👦 is happy 😊.
+       I am Nika.   You are big.   He is happy.
 7. Add a short "> 🇷🇺 ..." parent note on tricky points:
    - Russian has no "to be" in the present ("Я Ника", not "Я есть Ника") — so am/is/are
      feels strange; flag it.
@@ -59,16 +60,16 @@ HARD RULES
 8. Start the file with "# Lesson N — ..." and a one-line note on the lesson's focus.
 
 PLANNED 10-LESSON ARC (use this for the GENERATE line)
-   1  Hello! — greetings; pronoun I 🙋; "I am ___"
-   2  You 👉 — "you are ___"; "What's your name?"; "How are you?"
-   3  He 👦 & She 👧 — talk about family & friends; "He/She is ___"
-   4  It 🐱 & This — "It is a ___"; naming animals/objects
-   5  We 👫 & They 👨‍👩‍👧 — groups & plurals; "We are ___"
-   6  Review "to be" (am/is/are) + "I have ___" 🫴
+   1  Hello! — greetings; pronoun I; "I am ___"
+   2  You — "you are ___"; "What's your name?"; "How are you?"
+   3  He & She — talk about family & friends; "He/She is ___"
+   4  It & This — "It is a ___"; naming animals/objects
+   5  We & They — groups & plurals; "We are ___"
+   6  Review "to be" (am/is/are) + "I have ___"
    7  Action verbs — "I/you/we + verb" (run, eat, like, play)
-   8  He/She + verb-s — "He runs 🏃", "She plays" (3rd-person present simple)
+   8  He/She + verb-s — "He runs", "She plays" (3rd-person present simple)
    9  Questions & negatives — "Do you ___?", "I don't ___"
-   10 PRESENT SIMPLE — my day/routine: "I get up ⏰. I eat 🍳. She plays 🎲."
+   10 PRESENT SIMPLE — my day/routine: "I get up. I eat. She plays."
 
 Match the tone, length and formatting of the existing files in lessons/ and
 resources/word-bank.md.
@@ -84,8 +85,9 @@ Lesson 1 — greetings and the pronoun I; teach "I am ___".
 ```
 Create a lesson for this course. Keep the 4 sections (📋 Plan / 🎯 What we will learn /
 ✏️ Exercises for Nika / 🏠 Homework), short and FAST, mostly SPEAKING with a short reading
-warm-up. Blend: quick phonics + themed vocabulary + a communication focus. Emoji after every
-word; Russian translation in brackets the first time a word appears; teach grammar by
+warm-up. Blend: quick phonics + themed vocabulary + a communication focus. Use an emoji
+ONLY to explain a new word in the "What we will learn" list (word 🖼️ (translation)) — keep
+sentences, pattern boxes and exercises plain; teach grammar by
 pattern + swap, no jargon; a 🇷🇺 parent note on tricky points. Follow the 10-lesson arc and
 pace in PROMPT.md (greetings → pronouns → to be → present simple by Lesson 10).
 
@@ -106,7 +108,7 @@ Lesson 1 — greetings and the pronoun I; teach "I am ___".
 - [ ] All 4 sections, in order?
 - [ ] Fast and mostly SPEAKING (not a pure phonics drill)?
 - [ ] A clear pronoun/grammar focus taught by pattern + swap?
-- [ ] Emoji after every word; Russian translation on first use?
+- [ ] Icons ONLY in the "What we will learn" word list (sentences & boxes stay plain)?
 - [ ] At least one "say it about your real life" exercise?
 - [ ] A 🇷🇺 parent note where Russian speakers trip up?
 - [ ] Short (~45–60 lines)?

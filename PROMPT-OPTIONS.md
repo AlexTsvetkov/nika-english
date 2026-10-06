@@ -1,7 +1,8 @@
 # 🧪 Three Prompt Versions — pick your favourite
 
 Three different *teaching methods*, each a complete, copy-paste master prompt. They all:
-produce the same 4-section lesson format, put an emoji after every word, add a Russian
+produce the same 4-section lesson format, use an emoji only to explain a new word in the
+"What we will learn" word list (never inside sentences), add a Russian
 translation on first use, teach grammar by pattern (no jargon), stay short & mostly
 spoken, and reach the **present simple by Lesson 10**. They differ in *how* they get there
 and how a lesson *feels*.
@@ -44,11 +45,12 @@ HARD RULES:
       act out, and one "say it about YOU / your real life" exercise)
    ## 🏠 Homework (a 5-min/day spoken task, e.g. "say 3 sentences about your family")
 2. Short lesson (~45–60 lines).
-3. Emoji after every word she reads or says: cat 🐱, run 🏃, happy 😊 (I 🙋, you 👉, he 👦,
-   she 👧, we 👫, they 👨‍👩‍👧, is 🟰).
+3. ICONS only to explain a new word, and ONLY in the "🎯 What we will learn" word list,
+   as `word 🖼️ (translation)` e.g. ball 🏀 (мяч). NO icons in sentences, the pattern box,
+   dialogue, exercises or homework — keep them plain. (Headers 📋 🎯 ✏️ 🏠 + title keep emoji.)
 4. Russian translation in brackets on first use: dog 🐕 (собака).
 5. Show grammar as a PATTERN BOX, then have her swap words in:
-      I 🙋 am Nika.   I 🙋 am happy 😊.   I 🙋 am 8.
+      I am Nika.   I am happy.   I am 8.
 6. "> 🇷🇺 ..." parent note on tricky bits (Russian has no present-tense "to be"; no
    articles; sounds /æ/ /h/ /r/; look-alikes p n c a e h).
 7. Begin "# Lesson N — ..." + a one-line note on today's conversation.
@@ -88,10 +90,11 @@ HARD RULES:
    ## ✏️ Exercises for Nika (5 numbered: #1 is always "Read/act Mimi's story"; then
       speaking games that reuse the story language, incl. one "now say it about YOU")
    ## 🏠 Homework (retell today's scene or say it about herself, 5 min/day)
-2. Include a short STORY BOX (3–6 lines) each lesson, every word with an emoji.
+2. Include a short STORY BOX (3–6 lines) each lesson — keep it PLAIN text (no icons inside).
 3. Short lesson (~50–65 lines).
-4. Emoji after every word (I 🙋, you 👉, he 👦, she 👧, we 👫, they 👨‍👩‍👧, is 🟰);
-   Russian translation in brackets on first use: dog 🐕 (собака).
+4. ICONS only to explain a new word, and ONLY in the "🎯 What we will learn" word list, as
+   `word 🖼️ (translation)` e.g. dog 🐕 (собака). NO icons in the story box, pattern box,
+   exercises or homework — keep them plain.
 5. Grammar via the story + a small PATTERN BOX to swap words into — no jargon.
 6. "> 🇷🇺 ..." parent note on tricky bits (no present "to be" in Russian; no articles;
    sounds /æ/ /h/ /r/; look-alikes p n c a e h).
@@ -133,12 +136,13 @@ HARD RULES:
    ## ✏️ Exercises for Nika (5 numbered: a SUBSTITUTION TABLE drill, a "fix the sentence",
       a fast RU→EN / EN→RU swap, a matching/sorting game, and one "say it about YOU")
    ## 🏠 Homework (drill the new pattern aloud, 5 min/day)
-2. Include a SUBSTITUTION TABLE each lesson, e.g.:
-      | I 🙋 | am | happy 😊 / big / 8 |
-      | You 👉 | are | happy 😊 / here 📍 |
+2. Include a SUBSTITUTION TABLE each lesson (plain words, no icons), e.g.:
+      | I | am | happy / big / 8 |
+      | You | are | nice / here |
 3. Short lesson (~45–55 lines).
-4. Emoji after every word (I 🙋, you 👉, he 👦, she 👧, we 👫, they 👨‍👩‍👧, is 🟰);
-   Russian translation in brackets on first use: dog 🐕 (собака).
+4. ICONS only to explain a new word, and ONLY in the "🎯 What we will learn" word list, as
+   `word 🖼️ (translation)` e.g. dog 🐕 (собака). NO icons in the substitution table,
+   exercises or homework — keep them plain.
 5. No grammar jargon — call it "our pattern". Teach by table + swap only.
 6. "> 🇷🇺 ..." parent note on tricky bits (no present "to be" in Russian; no articles;
    sounds /æ/ /h/ /r/; look-alikes p n c a e h).

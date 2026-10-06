@@ -6,23 +6,23 @@ Each sound has a **story picture**, a **hand/body action** (movement helps memor
 
 | Letter | Pure sound | Story picture | Action | 🇷🇺 Watch out |
 |---|---|---|---|---|
-| **s** | /sss/ | hissing snake 🐍 | hand wiggles like a snake | = «с», easy |
 | **a** | /æ/ | ant on your arm 🐜 | fingers crawl up arm | NOT Russian «а» — bright, open |
-| **t** | /t/ | tapping / rain 🥁 | tap two fingers on palm | = «т», keep it short |
-| **p** | /p/ | popping lips 💨 | puff air onto your hand | looks like «р» but says /p/! |
-| **i** | /ɪ/ | squeaking mouse 🐭 | wriggle, rub eyes | short /ɪ/, not «и»/«ай» |
-| **n** | /nnn/ | humming plane ✈️ | arms as wings, "fly" | looks like «п» but says /n/! |
 | **c** | /k/ | clicking camera 📷 | "click" a camera | looks like «с» but says /k/! |
-| **k** | /k/ | flying kite 🪁 | pull a kite string | same sound as c |
-| **e** | /e/ | cracking egg 🥚 | crack an egg on the table | short /e/, not «е/йэ» |
-| **h** | /h/ | breath on glass 🫧 | breathe onto your palm | soft breath, NOT harsh «х»; looks like «н» |
-| **r** | /r/ | running dog 🐕 | run on the spot | do NOT roll it like Russian «р» |
-| **m** | /mmm/ | yummy tummy 🍫 | rub your tummy | = «м», easy |
 | **d** | /d/ | banging drum 🥁 | play an air-drum | = «д», short, no «ы» |
+| **e** | /e/ | cracking egg 🥚 | crack an egg on the table | short /e/, not «е/йэ» |
 | **g** | /g/ | glugging bottle 🍾 | tip a bottle, glug | hard «г» |
-| **o** | /ɒ/ | orange / light on 🍊 | round mouth + hands circle | short round /ɒ/, not long «оу» |
-| **u** | /ʌ/ | umbrella up ☔ | push umbrella up | short /ʌ/ "uh" |
+| **h** | /h/ | breath on glass 🫧 | breathe onto your palm | soft breath, NOT harsh «х»; looks like «н» |
+| **i** | /ɪ/ | squeaking mouse 🐭 | wriggle, rub eyes | short /ɪ/, not «и»/«ай» |
+| **k** | /k/ | flying kite 🪁 | pull a kite string | same sound as c |
 | **l** | /lll/ | licking lollipop 🍭 | lick a lollipop | tongue up, softer than «л» |
+| **m** | /mmm/ | yummy tummy 🍫 | rub your tummy | = «м», easy |
+| **n** | /nnn/ | humming plane ✈️ | arms as wings, "fly" | looks like «п» but says /n/! |
+| **o** | /ɒ/ | orange / light on 🍊 | round mouth + hands circle | short round /ɒ/, not long «оу» |
+| **p** | /p/ | popping lips 💨 | puff air onto your hand | looks like «р» but says /p/! |
+| **r** | /r/ | running dog 🐕 | run on the spot | do NOT roll it like Russian «р» |
+| **s** | /sss/ | hissing snake 🐍 | hand wiggles like a snake | = «с», easy |
+| **t** | /t/ | tapping / rain 🥁 | tap two fingers on palm | = «т», keep it short |
+| **u** | /ʌ/ | umbrella up ☔ | push umbrella up | short /ʌ/ "uh" |
 
 > These picture-action-sound links are the Jolly Phonics method used in schools worldwide.
 > Doing the **action** while saying the sound makes it stick far better than looking alone.
